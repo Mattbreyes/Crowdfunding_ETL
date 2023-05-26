@@ -7,7 +7,7 @@ Building an ETL pipeline using Python, Pandas, and Pandas dictionary methods to 
 - `table_screenshots`
     - Contains screenshots of all SQL tables created in PGAdmin4
 - `scripts`
-    - Contains all relevant scripts for data analysis, SQL, Python, and ERD scehma
+    - Contains all relevant scripts for data analysis, SQL, Python, and ERD schema
 
 ### Extract
 Import data into Jupyter Notebook
