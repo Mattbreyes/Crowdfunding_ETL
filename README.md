@@ -1,7 +1,7 @@
 # Crowdfunding ETL
 
 ## Overview
-Building an ETL pipeline using Python, Pandas, and Pandas dictionary methods to extract and transform data collected from crowdfunding projects.
+Building an ETL pipeline using Python, Pandas, and Pandas dictionary methods to extract and transform data collected from crowdfunding projects. PGAdmin4 is then used to import and verify the data is correctly normalized in an SQL database. 
 
 ### Extract
 Import data into Jupyter Notebook
