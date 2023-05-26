@@ -30,7 +30,8 @@ Transform data into readable sections to be reorganized
 ### Load
 Transofmred Data is then exported to a clean CSV file. 
 
-    `# Export the DataFrame as a CSV file. contacts_df_clean.to_csv("Resources/contacts.csv", encoding='utf8' index=False)`
+    `# Export the DataFrame as a CSV file. 
+    contacts_df_clean.to_csv("Resources/contacts.csv", encoding='utf8' index=False)`
 ## Resources
 - VS Code
 - Jupyter Notebook
