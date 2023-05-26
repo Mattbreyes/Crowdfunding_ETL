@@ -2,6 +2,12 @@
 
 ## Overview
 Building an ETL pipeline using Python, Pandas, and Pandas dictionary methods to extract and transform data collected from crowdfunding projects. PGAdmin4 is then used to import and verify the data is correctly normalized in an SQL database. 
+- `Resources`
+    - Contains the exported .csv files
+- `table_screenshots`
+    - Contains screenshots of all SQL tables created in PGAdmin4
+- `scripts`
+    - Contains all relevant scripts for data analysis, SQL, Python, and ERD scehma
 
 ### Extract
 Import data into Jupyter Notebook
